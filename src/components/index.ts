@@ -1,0 +1,5 @@
+export { default as Product } from './Product'
+export { default as Loader } from './Loader'
+export { default as Error } from './Error'
+export { default as Modal } from './Modal'
+export { default as CreateProduct } from './CreateProduct'
